@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Cardo-Italic';
+  src: url(./Cardo-Italic.eot);
+  src: url(./Cardo-Italic.eot?#iefix) format('embedded-opentype'),
+       url(./Cardo-Italic.otf) format('otf'),
+       url(./Cardo-Italic.svg#Cardo-Italic) format('svg'),
+       url(./Cardo-Italic.ttf) format('truetype'),
+       url(./Cardo-Italic.woff) format('woff'),
+       url(./Cardo-Italic.woff2) format('woff2');
+}

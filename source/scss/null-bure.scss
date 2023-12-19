@@ -1,0 +1,31 @@
+* {padding: 0; margin: 0; border: 0;}
+html, body {width: 100%; box-sizing: border-box; font-size: 16px;}
+strong {font-weight: normal;}
+button {cursor: pointer;}
+a, a:visited {text-decoration: none; color: inherit;}
+ul, li {list-style: none;}
+h1, h2, h3, h4, h5, h6 {font-size: inherit; font-weight: inherit;}
+
+
+
+@font-face {
+  font-family: 'Cardo-Regular';
+  src: url("../../fonts/Cardo-Regular.eot");
+  src: url("../../fonts/Cardo-Regular.eot?#iefix") format('embedded-opentype'),
+       url("../../fonts/Cardo-Regular.otf") format('otf'),
+       url("../../fonts/Cardo-Regular.svg#Cardo-Regular") format('svg'),
+       url("../../fonts/Cardo-Regular.ttf") format('truetype'),
+       url("../../fonts/Cardo-Regular.woff2") format('woff2'),
+       url("../../fonts/Cardo-Regular.woff") format('woff');
+}
+
+@font-face {
+  font-family: 'Cardo-Italic';
+  src: url("../../fonts/Cardo-Italic.eot");
+  src: url("../../fonts/Cardo-Italic.eot?#iefix") format('embedded-opentype'),
+       url("../../fonts/Cardo-Italic.otf") format('otf'),
+       url("../../fonts/Cardo-Italic.svg#Cardo-Italic") format('svg'),
+       url("../../fonts/Cardo-Italic.ttf") format('truetype'),
+       url("../../fonts/Cardo-Italic.woff") format('woff'),
+       url("../../fonts/Cardo-Italic.woff2") format('woff2');
+}
